@@ -1,1 +1,0 @@
-Source folder in which all content will be.
