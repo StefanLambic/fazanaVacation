@@ -1,0 +1,1 @@
+Partials are part of the website, that are being used on multiple pages. 
