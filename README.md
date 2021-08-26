@@ -1,1 +1,5 @@
-# fazanaVacation
+- The name of this project is fazanaVacation.
+- This project had been made as a part of an event organized by WebCon on which we were building a website using multiple tools.
+- Fažana is a popular resort place in Croatia and this was an example of what kind of touristic website it could have.
+- While working on this project i have gotten wider understanding how Sass works, as well as working more with PHP files and XAMPP.
+- I also have learned how to have more clean code using separated files (e.g. working with mixins, variables) and got to deal with some of more complex nesting.
